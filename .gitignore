@@ -1,4 +1,5 @@
 **/src/xcode/build/**
 xcuserdata/
+DerivedData/
 target
 import
