@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EF1B448D21CCAEDE00641898 /* WinnersViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF1B448C21CCAEDE00641898 /* WinnersViewController.swift */; };
+		EF1B448F21CCAEFF00641898 /* CurrentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF1B448E21CCAEFF00641898 /* CurrentViewController.swift */; };
 		EF837AD621CB66AB006326C0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF837AD521CB66AB006326C0 /* AppDelegate.swift */; };
 		EF837AD821CB66AB006326C0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF837AD721CB66AB006326C0 /* ViewController.swift */; };
 		EF837ADB21CB66AB006326C0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EF837AD921CB66AB006326C0 /* Main.storyboard */; };
@@ -15,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EF1B448C21CCAEDE00641898 /* WinnersViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WinnersViewController.swift; sourceTree = "<group>"; };
+		EF1B448E21CCAEFF00641898 /* CurrentViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrentViewController.swift; sourceTree = "<group>"; };
 		EF837AD221CB66AB006326C0 /* InfoApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = InfoApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EF837AD521CB66AB006326C0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EF837AD721CB66AB006326C0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -60,6 +64,8 @@
 				EF837ADC21CB66AB006326C0 /* Assets.xcassets */,
 				EF837ADE21CB66AB006326C0 /* LaunchScreen.storyboard */,
 				EF837AE121CB66AB006326C0 /* Info.plist */,
+				EF1B448C21CCAEDE00641898 /* WinnersViewController.swift */,
+				EF1B448E21CCAEFF00641898 /* CurrentViewController.swift */,
 			);
 			path = InfoApp;
 			sourceTree = "<group>";
@@ -135,6 +141,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EF1B448F21CCAEFF00641898 /* CurrentViewController.swift in Sources */,
+				EF1B448D21CCAEDE00641898 /* WinnersViewController.swift in Sources */,
 				EF837AD821CB66AB006326C0 /* ViewController.swift in Sources */,
 				EF837AD621CB66AB006326C0 /* AppDelegate.swift in Sources */,
 			);
